@@ -1,0 +1,3 @@
+[lib]
+name = "hello_world"
+crate-type = ["cdylib", "lib"]
